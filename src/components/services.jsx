@@ -56,7 +56,7 @@ const Services = () => {
               <img
                 src={item.img}
                 alt={item.title}
-                className="h-20 w-20 object-cover border-4 border-white shadow-md z-10 rounded-full"
+                className="h-24 w-24 object-cover border-8 border-white shadow-md z-10"
               />
             </div>
 
