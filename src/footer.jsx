@@ -10,7 +10,7 @@ const footer = () => {
             GFM Bliss
         </div>
 
-        <p className=''>All rights reserved. GFM Bliss - &copy;2024.</p>
+        <p className=''>All rights reserved. GFM Bliss - &copy; {new Date().getFullYear()}</p>
 
         
     </div>

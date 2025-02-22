@@ -25,11 +25,11 @@ const App = () => {
       <EmergencyNumber />
       <Nav forceReRender={forceReRender} />
       <Hero />
+      <About />
       <Services />
       <Emergency />
       <Qualities />
       <Testimonial />
-      <About />
       <FreeQuote />
       <Contact />
       <Footer />

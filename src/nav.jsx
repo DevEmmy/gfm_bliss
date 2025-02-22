@@ -18,8 +18,8 @@ const nav = ({forceReRender}) => {
 
         <div className='flex gap-10 md:hidden'>
             <a href="#home">Home</a>
-            <a href="#services">Services</a>
             <a href="#about">About</a>
+            <a href="#services">Services</a>
             <a href="#contact">Contact</a>
         </div>
 
