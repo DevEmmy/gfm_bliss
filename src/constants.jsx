@@ -6,9 +6,9 @@ import { FaRegLightbulb, FaBolt, FaClock, FaCalendar, FaNewspaper } from "react-
 import { MdEmergency } from "react-icons/md";
 import image1 from './assets/400Amps ATS Panel with Manual Change over.jpg';
 import image2 from './assets/800Amps Distribution Panel for a Recycling Factory.jpg';
-import image3 from './assets/1000Kva Gas Generator 1.jpg';
-import image4 from './assets/1000Kva Gas Generator 2.jpg';
-import image5 from './assets/1000Kva Gas Generator 3.jpg';
+import image3 from './assets/1000KvA Gas Generator 1.jpg';
+import image4 from './assets/1000KvA Gas Generator 2.jpg';
+import image5 from './assets/1000KvA Gas Generator 3.jpg';
 import image6 from './assets/ATS Panel with PHCN Meter.jpg';
 import image7 from './assets/Automation Circulation Pump Panel 2.jpg';
 import image8 from './assets/Automation Circulation Pump Panel.jpg';
